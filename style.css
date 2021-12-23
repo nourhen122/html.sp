@@ -1,0 +1,40 @@
+h2{
+    color: white;
+    background-color: grey;
+    font-family: 'Roboto Mono', monospace;
+}
+#home{
+    margin-right: 30%;
+}
+#about{
+    color: honeydew;
+    background-color: darkslategrey;
+    font-family: monospace;
+    margin-right: 30%;
+}
+#about>img{
+    margin-left: 35%;
+}
+#work {
+    color: floralwhite;
+    background-color:darkslategray;
+    font-family: monospace;
+    margin-right: 30%;
+}
+#contact{
+    color: floralwhite;
+    background-color: darkslategray;
+    font-family: monospace;
+    margin-right: 30%;
+}
+div{
+    display: block;
+}
+p{
+    height: 100%;
+}
+.doc{
+    color: black;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
